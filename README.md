@@ -1,39 +1,39 @@
 ![C.Malinga](https://yt3.ggpht.com/XA0FtrAIen6K2gp0Daa4OjxgTpz3H_G7tdFHQpaW7o4bIItbTNbko8YgkyLQ__jgj3oPaB86=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
-# The Art Of Coding - simple and Easy learning
----
+# The Art Of Coding - simple and Easy learning <sup> &copy;</sup>
 
 ## Simple and Easy learning, how to code with @ChathuraMalinga.
----
+
 # [Visit My YouTube Channel](https://www.youtube.com/channel/UC2-nj4lJaFtvAM0dmSXSp9g/videos?sub_confirmation=1)
 
 
+### Learn how to code : Full stack web developers are the Swiss Army knife of the code world. Having that designation means you can produce end to end solutions.
 
-Learn how to code : Full stack web developers are the Swiss Army knife of the code world. Having that designation means you can produce end to end solutions.
+---
 
-* Full Stack Web Development, 
-* Technical Architect, 
-* Business Intelligence Software, 
-* API Integrations, 
+* Full Stack Web Development 
+* Technical Architect 
+* Business Intelligence Software 
+* API Integrations 
 * eCommerce. 
-* PHP, 
-* JavaScript , 
-* HTML, 
+* PHP 
+* JavaScript  
+* HTML 
 
-* SQL, 
-* SQLite,
-* MongoDB, 
+* SQL 
+* SQLite
+* MongoDB 
 
 * WordPress
-* Laravel, 
+* Laravel 
 
 * React
-* AngularJS,
-* Vue,
+* AngularJS
+* Vue
 
-* Bootstrap, 
+* Bootstrap 
 
 
-* Bootcamp,
+* Bootcamp
 
 Git Codes | Help To
 ------------ | -------------
