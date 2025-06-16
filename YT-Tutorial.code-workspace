@@ -1,1 +1,10 @@
-{"folders": [{"path": "."}],"settings": {}}
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "explorer.sortOrder": "modified"
+    }
+}
